@@ -7,7 +7,7 @@
 > **기존 웹 기반의 찬양 콘티 관리 시스템을 하이브리드 앱 환경으로 성공적으로 포팅한 프로젝트입니다.**
 
 <p align="center">
-  <img src="icon.jpg" alt="App Icon" width="150"/>
+  <img src="icon.png" alt="App Icon" width="150"/>
 </p>
 
 ## 🌟 프로젝트 개요
