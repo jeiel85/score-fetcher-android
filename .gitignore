@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Android build artifacts
+android/app/build/
+android/.gradle/
+android/local.properties
+
+# Capacitor
+www/
+capacitor.plugins.json
+
+# OS files
+.DS_Store
+Thumbs.db
